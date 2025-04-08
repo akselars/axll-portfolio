@@ -5,7 +5,6 @@ A modern, responsive portfolio website showcasing 3D environment and object crea
 ## Features
 
 - Responsive design that works on all devices
-- Dark/Light theme toggle
 - Custom cursor with trail effect
 - Smooth scrolling and animations
 - Project showcase with hover effects
