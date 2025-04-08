@@ -32,27 +32,6 @@ portfolio-website/
     └── project-images/
 ```
 
-## Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/portfolio-website.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd portfolio-website
-```
-
-3. Open `index.html` in your browser or use a local server.
-
-## Development
-
-To make changes to the website:
-
-1. Edit `index.html` for content changes
-2. Modify `styles.css` for styling updates
-3. Update `script.js` for functionality changes
 
 ## Contributing
 
